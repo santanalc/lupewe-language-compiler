@@ -1,0 +1,14 @@
+inteiro int
+real double
+sai <<
+entra >>
+e &&
+ou ||
+nao !
+enquanto while
+para for
+se if
+senao else
+resto %
+inicioPrograma main()
+cadeia string

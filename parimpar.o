@@ -1,0 +1,46 @@
+INICIO_PROGRAMA inicioPrograma
+INIBLOCO {
+INTEIRO inteiro
+VAR x
+PVIRGULA ;
+INTEIRO inteiro
+VAR v
+PVIRGULA ;
+SAIDA sai
+STRING "Digite um numero\n"
+PVIRGULA ;
+ENTRADA entra
+VAR x
+PVIRGULA ;
+VAR v
+ATRIBUICAO =
+VAR x
+RESTO resto
+NUM 2
+PVIRGULA ;
+SE se
+ABREPARENTESES (
+VAR v
+IGUAL ==
+NUM 0
+FECHAPARENTESES )
+INIBLOCO {
+SAIDA sai
+STRING "O numero "
+SAIDA sai
+VAR x
+SAIDA sai
+STRING " eh par"
+PVIRGULA ;
+FIMBLOCO }
+SENAO senao
+INIBLOCO {
+SAIDA sai
+STRING "O numero "
+SAIDA sai
+VAR x
+SAIDA sai
+STRING " eh impar"
+PVIRGULA ;
+FIMBLOCO }
+FIMBLOCO }
